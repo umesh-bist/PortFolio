@@ -1,6 +1,6 @@
-import React from "react";
 
-import pic from "../../public/photo.avif";
+
+import pic from "../../public/umesh.jpg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -37,11 +37,12 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            a passionate Web developer with two one-month
+          internships and hands-on project experience. Proficient in HTML, CSS,
+          JavaScript, React.js, Java, Node.js, Express.js, SQL, and MongoDB.
+          Excited to contribute to web application development and eager to
+          expand my skills. Committed to delivering high-quality results in a
+          dynamic and collaborative environment.
             </p>
             <br />
             {/* social media icons */}
