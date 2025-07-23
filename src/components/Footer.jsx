@@ -20,7 +20,7 @@ function Footer() {
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
               <p className="text-sm">
-                &copy; 2024 umesh Bist. All rights reserved.
+                &copy; 2023 umesh Bist. All rights reserved.
               </p>
              
             </div>
