@@ -8,8 +8,8 @@ function About() {
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p style={{textAlign:"justify"}}>
           Hello, I'm Umesh Bist, a passionate Web developer with two one-month
-          internships and hands-on project experience. Proficient in HTML, CSS,
-          JavaScript, React.js, Java, Node.js, Express.js, SQL, and MongoDB.
+          internships and hands-on project experience. Proficient in Frontend development,backend,mobile 
+          app (flutter),AI .
           Excited to contribute to web application development and eager to
           expand my skills. Committed to delivering high-quality results in a
           dynamic and collaborative environment.
@@ -18,8 +18,8 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">Education</h1>
         <span style={{textAlign:"justify"}}>
           East West Institute of Technology ,bangalore <br /> Bachelor in  Computer
-          Science and Engineering,<br /> octuber 2020 - May 2024
-          <br /> CGPA: 9.4  <br />Affiliated with
+          Science and Engineering,<br /> october 2020 - May 2024
+          <br /> CGA: 9.4  <br />Affiliated with
           VTU University
         </span>
         <br />
